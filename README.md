@@ -1,2 +1,2 @@
-# folder-organizer
-Organizar de pastas em python
+# Organizador de Pastas
+Organizador de pastas em python
